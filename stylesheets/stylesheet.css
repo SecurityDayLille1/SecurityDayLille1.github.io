@@ -44,7 +44,7 @@ header {
 }
 
 header h1 {
-  font-size: 30px;
+  font-size: 29px;
   line-height: 1.5;
   margin: 0 0 0 -40px;
   font-weight: bold;
@@ -66,6 +66,14 @@ header h2 {
   font-size: 18px;
   font-weight: 300;
   color: #666;
+}
+
+footer {
+  background: rgba(0, 0, 0, 0);
+  width: 100%;
+  border-top: 1px dashed #ffed00;
+  padding: 20px 0;
+  margin: 0 0 40px 0;
 }
 
 #downloads .btn {
